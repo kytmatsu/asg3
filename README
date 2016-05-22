@@ -1,0 +1,11 @@
+/*
+Kyle Matsumoto
+kytmatsu
+CMPS012B
+11/21/14
+The README for asg3.
+*/
+   
+
+I am submitting README xref.java X.java auxlib.java Queue.java and Tree.java.
+NOTE: The X.java is essential to the program. This is code that i altered from what i did when i was in mackeys class doing assignment 3 i have tried to make it fit the rest of the program to the best of my abilities, however, i felt that it would be a huge waste to rewrite the whole program from scratch. Therefore i am turning in the extra file X.java which allows my program to get along nicely with itself. Sorry for the hassle it might cause when grading.
